@@ -1,6 +1,6 @@
-baseURL = "http://people-unleashed.com/"
+baseURL = "https://people-unleashed.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "PEOPLE Site"
 theme = "story"
 paginate = 5
 buildFuture = true

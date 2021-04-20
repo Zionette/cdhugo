@@ -1,5 +1,5 @@
 ---
-title: The Story Hugo Theme
+title: Story Hugo Theme
 date: "2018-09-03"
 url: "/about-story"
 description: "Story is a beautiful responsive Hugo blog theme with many extra features including presentations, math typesetting, and search."

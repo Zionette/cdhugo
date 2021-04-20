@@ -1,43 +1,37 @@
 ---
-title: Story Hugo Theme
-date: "2018-09-03"
+title: Cloud4z2.com
+date: "2021-04-11"
 url: "/about-story"
-description: "Story is a beautiful responsive Hugo blog theme with many extra features including presentations, math typesetting, and search."
-tldr: "Story is a beautiful responsive Hugo blog theme with powerful extra features out-of-the-box. It's targeted to people who want to showcase their technical work online."
+description: "AWS Certified Solutions Architecht"
+tldr: "AWS Certified Solutions Architecht"
 credit: "https://unsplash.com/photos/o-ubWHV29Uk"
-image: "img/unsplash-photos-o-ubWHV29Uk.jpg"
-thumbnail: img/unsplash-photos-o-ubWHV29Uk.tn-500x500.jpg
+image: "img/Cloud4z2Certs.png"
+thumbnail: img/Cloud4z2Pic.png
 categories:
-- Demo
+- 
 ---
-Story is a beautiful Hugo theme.  [Hugo](https://gohugo.io) is a static website
-generator, which builds websites by rendering
-[Markdown](https://commonmark.org/help/) content into templates from themes like
-Story. The resulting site is fast, secure, and easy to build and maintain.
 
-Story is a responsive theme that supports blogs, with many extra features such
-as presentations, math and music typesetting, and search.  The Story design
-philosophy prioritizes simplicity and elegance, so it can be sophisticated
-and powerful at the same time.
+AWS CERTIFIED SOLUTIONS ARCHITECT
 
+Responsible for building and integration of computer systems and information for meeting specific needs. 
+Involving the integration of hardware and software for meeting the customer-defined purpose. Translate the 
+technical requirements of a project into an architecture and design ideal for the final product. Reducing 
+the gap between between complex problems and solutions.
 <!--more-->
+ Amazon Lex ~  Lambda ~  Amazon Cognito ~  IAM ~  S3 ~  AWS Security ~ Serverless Web Apps Using Amazon DynamoDB ~ AWS Big Data ~  Cloud9 ~  CodeStar ~ CodeCommit ~ CodeBuild ~ CodeDeploy ~ CodePipeline ~ Cloudfront ~ Route53 ~ CertificateManager ~ Amplify ~ QwikLabs
+ 
+LANGUAGES, OPERATING SYSTEMS & TOOLS
+ HTML5   HTML   JavaScript   CSS   MySQL   git   atom
+ 
+PLATFORM DEVELOPMENT & ADMINISTRATION
+ Hugo
+ 
+CONTAINERS & CLOUD
+ Docker   AWS
 
-Story is easy to use, making it a great way to share your writing and speaking
-with the world.  Story is targeted to technical writers and speakers: people
-such as software engineers and open source developers, who want a website for
-their technical work and side projects---for example, those who write and speak
-about software engineering.
 
 
-Story is deceptively simple, while offering the features you need:
 
-- Beautiful, responsive typography for long-form content on screen and in print, including blogs and single pages.
-- Support for Remark in-browser slideshows, written in simple Markdown.
-- LaTeX math equation typesetting.
-- Sheet music rendering from ABC music notation.
-- Built-in site search.
 
-Story has many more features than this.
-Explore Story and learn all the ways it can help you showcase your work!
 
-Read next: [Story's features](/theme-features).
+Read next: [Handmade by Zionette](/features).

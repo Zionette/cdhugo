@@ -1,8 +1,7 @@
 ---
 ---
-![Elvis](/img/elvis.jpg)
+![Zionette Cleek](/img/ZionettePhoto.png)
 
-Elvis Aaron Presley (January 8, 1935 – August 16, 1977) was an American singer
-and actor. Regarded as one of the most significant cultural icons of the 20th
-century, he is often referred to as the "King of Rock and Roll" or simply "the
-King".
+Zionette Cleek is the founder of the great movement [PEOPLE Unleashed](/adirondack/), and creator of [Handmade by Zionette](/features /). She writes about topics
+such as cloud technology, entrepreneurship, vertical gardening, boutique soaps, crafted lotions, yoga and QiGong. 
+[More about Zionette](/slides/).

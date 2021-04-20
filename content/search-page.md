@@ -1,80 +1,31 @@
 ---
-title: Story's JavaScript Search
-date: "2018-08-21"
+title: Global Ecovillage Network
+date: "2021-04-11"
 url: "/search-page"
 description: "With Story, your site will have built-in search with no external dependencies."
-image: "img/unsplash-photos-4zxSWESyZio.jpg"
+image: "img/GEN2.png"
 credit: "https://unsplash.com/photos/4zxSWESyZio"
-thumbnail: "img/unsplash-photos-4zxSWESyZio.tn-500x500.jpg"
+thumbnail: "img/GEN.png"
 categories:
 - Demo
 ---
-This article documents Story's built-in search features, which don't rely on external search engines.
-Story uses the [LunrJS](https://lunrjs.com/) library to provide fast browser-based search.
-This page first explains how search setup works, and then provides copy-paste
-ready code samples for you to use.
+The Global Ecovillage Network (GEN) catalyzes communities for a regenerative world. GEN 
+is a growing network of regenerative communities and initiatives that bridge cultures, 
+countries, and continents.
+
+GEN builds bridges between policy-makers, governments, NGOs, academics, entrepreneurs, 
+activists, community networks and ecologically-minded individuals across the globe in 
+order to develop strategies for a global transition to resilient communities and cultures.
 <!--more-->
 
-To get Story's search to work, you need to take a couple of steps:
+What is an Ecovillage?
 
-1. Create a piece of content with the URL you want. Story assumes you want
-	`/search/` and adds an icon for that in the top menu automatically. So you
-	can simply create `content/search/_index.md` and that should work.
-2. Give this content the `search` layout, and a title.
+An ecovillage is an intentional, traditional or urban community that is consciously 
+designing its pathway through locally owned, participatory processes, and aiming to 
+address the Ecovillage Principles in the 4 Areas of Regeneration (social, culture, 
+ecology, economy into a whole systems design).
+Ecovillages are living laboratories pioneering beautiful alternatives and innovative 
+solutions. They are rural or urban settlements with vibrant social structures, vastly 
+diverse, yet united in their actions towards low-impact, high-quality lifestyles.
 
-There doesn't need to be any Markdown content; the `search` layout ignores it.
-
-This will create the search page, but you also need to tell Hugo that it should
-build the JSON index of the content in the site, which LunrJS uses. To do this,
-configure the `home` output type to include JSON, which isn't included by
-default. This will override the default output settings, so you'll need to
-explicitly specify the defaults in addition. Here's a YAML config file section
-for your `config.yaml` file to enable this:
-
-```
-outputs:
-   home:
-      - HTML
-      - JSON
-      - RSS
-   page:
-      - HTML
-   section:
-      - HTML
-      - RSS
-   taxonomy:
-      - HTML
-      - RSS
-   taxonomyTerm:
-      - HTML
-      - RSS
-```
-
-If you use TOML, use this:
-
-```
-[outputs]
-  home = ["HTML", "JSON", "RSS"]
-  page = ["HTML"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML", "RSS"]
-```
-
-There's more you can do. If you want to create a full-featured search page easily, just paste the following code into `content/search/_index.md`
-
-```
----
-layout: search
-url: /search/
-title: Search
-classes:
-- feature-nosubtitle
-- feature-nohdr
----
-```
-
-This illustrates an additional layout feature in Story:
-displaying it without a header image.
-
-Read next: [Story's mathematical equation typesetting features](/math/).
+Read next: [Green Dream Project](/images/).

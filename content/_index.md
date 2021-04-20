@@ -1,10 +1,9 @@
 ---
-title: Story Hugo Theme Demo Site
-subtitle: "Showcase Your Work"
+title: 
+subtitle:
 ---
-[![Baron Schwartz](/img/baron-square.jpg)](https://www.xaprb.com)
+[![Zionette Cleek](/img/ZionettePhoto.png)](https://cloud4z2.com)
 
-Baron Schwartz is the founder and CTO of [VividCortex](https://vividcortex.com), author of
-several books, and creator of various open-source software. He writes about topics
-such as technology, entrepreneurship, and fitness. [More about
-Baron](https://www.xaprb.com/).
+Zionette Cleek is the founder of the great movement [PEOPLE Unleashed](/adirondack/), and creator of [Handmade by Zionette](/features/). She writes about topics
+such as cloud technology, entrepreneurship, vertical gardening, boutique soaps, crafted lotions, yoga and QiGong. 
+[More about Zionette](/slides/).

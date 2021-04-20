@@ -1,62 +1,61 @@
 ---
-title: Story's Music Notation
-date: "2018-08-20 04:00:00"
+title: Bio Dome Homes
+date: "2021-04-11"
 url: "/music"
 description: "Story can render music notation in your website."
-credit: "https://unsplash.com/photos/UpdR5OaUJl0"
-image: "img/jordan-mixson-372435-unsplash.jpg"
-thumbnail: img/jordan-mixson-372435-unsplash.tn-500x500.jpg
+credit: ""
+image: "img/BioVeda2.png"
+thumbnail: img/BioVeda.png
 classes:
 - feature-music
 categories:
 - Demo
 ---
-Story uses the [abcjs](https://github.com/paulrosen/abcjs) library to transform
-[abc](https://www.abcnotation.com) music notation into "sheet music" dynamically.
-This works well for displaying a wide variety of music notation in a web
-browser conveniently, without embedding images or PDFs or the like.
+
+As a family, we, Alosha & Zoya from Bio-Veda Academy, have abandoned our home in the final 
+stages of mortgage repayment. It was not an easy decision, but one that completely flipped 
+our lives, unlocking incredible opportunities we could have never dreamt possible.
+
+That's why we have much to share about these bold, scary steps as we break through to a 
+new reality we are co-creating with our bare hands!
+
 <!--more-->
 
-To generate sheet music within a page, enter it in a code listing with the language `abc`, like this:
+We'll inspire you to learn a variety of simple DIY skills and underline their importance 
+in gaining independence from the system!
 
-    ```abc
-    [ABC music notation goes here]
-    ```
 
-If you enable music notation rendering with the `feature-[no]music` flag, then Story's
-JavaScript, which runs when the page loads, will search for every `abc` code listing and transform it.
-Here's an example:
+Our step-by-step journey and facts about our life will show you how to fearlessly and 
+painlessly set yourself free from the hamster wheel trap of our current, socially insane 
+paradigm.
 
-```abc
-X: 76
-T:Mazurka
-C:F. Chopin
-T: Op.33 No.1
-M:3/4
-L:1/4
-Q:"Mesto"
-K:B
-%%staves {(RH1 RH2) (LH1 LH2)}
-V: RH1 clef=treble name="Piano"
-V: RH2 clef=treble
-V: LH1 clef=bass
-V: LH2 clef=bass
-%
-[V: RH1] (!p!LD | E/>D/ [^^CGB][^C^^FA] | G2-) (G/A/ | B/c/ d {/f}e | (d/g//)) z// (Ld2 |
-[V: RH2] x  | x      x      x      | z [B,D] z  | x    x     x | x            z [G-B-]| 
-[V: LH1] x  | x      x      x      | z [D,G,] x | x3           | x3 |
-[V: LH2] z  | z      z      (D,,   | G,,2)   z  | z3           | z            z [G,-D-]|
-%
-[V: RH1] d/>c/ e      d) | {/c}(B/>A/ [EGc][DGB]) | (E/>D/ [^^CGB][^C^^FA] | G2 B | d/>c/e  d) |
-[V: RH2] [GB]  [GA] [GB] | x3                     | x3 | z [B,D][B,D]            | z [GA] [GB] |
-[V: LH1] x3 | x3 | x3 | z [D,G,] [D,G,] | x3 |
-[V: LH2] [G,D] ([C,C] [G,,G,]) | z ([C,C,,] [G,,,G,,]) | z z (D,, | G,,2) x | z ([C,C] [G,,G,])
-```
 
-Story also has a `music` shortcode, which simply takes the name of an abc file as an argument, e.g. the following example code and the resulting music notation. This enables you to store your music files separately from your content and include them easily.
+On our YouTube VLOG and website we share:
 
-<pre><code>&#123;{< music "/cooleys.abc" >}}</code></pre>
+-how we, only husband & wife, build our home together, with our bare hands, without any labour
 
-{{< music "/cooleys.abc" >}}
+-how to live in a new reality, independent from the system and monetary "needle"
 
-Read next: [Story's beautiful typography](/typography/).
+-homesteading, food forest gardening, and permaculture in action
+
+-growing an abundance of healthy, organic food with minimal inputs
+
+-travelling, couch-surfing style, as well as eco-community building
+
+It's virtually impossible to engage in the above while humanity is trapped in an inferiority 
+complex formed during childhood by a system whose main purpose is suppressing a child's willpower, 
+enthusiasm, and curiosity.
+
+In our content, we share recommendations of the necessary internal process work that 
+empowers constructive, external actions leading to harmony, self-sufficiency and thriving…
+
+Let us take strategic steps, born from the state of inner balance, to build a new reality 
+that makes the old one obsolete.
+
+Recent global changes and the post-global quarantine period have opened the floodgates of 
+unlimited opportunities that seemed impossible before.
+
+Now is a perfect time to break old moulds of enslavement as we transition into new waters 
+of off-grid, sustainable and wholesome living.
+
+Read next: [Connecting Consciousness](/math/).

@@ -1,69 +1,21 @@
 ---
-title: "Story's MailChimp Integration Features"
-date: "2018-08-18"
+title: "EARTH UNITED"
+date: "2021-04-11"
 url: "/mailchimp-features"
 description: "Story makes it easy to grow a MailChimp subscriber list and send beautifully formatted emails to them automatically."
-image: "img/jessy-hoffmann-720198-unsplash.jpg"
-credit: "https://unsplash.com/photos/EsNkWAv6Vmw/"
-thumbnail: "img/jessy-hoffmann-720198-unsplash.tn-500x500.jpg"
+image: "img/EarthUnited.png"
+credit: "https://EarthUnited copy.png"
+thumbnail: "img/EarthUnited2.png"
 categories:
-- Demo
 ---
-If you're a blogger, you might use MailChimp to build a subscriber list, and
-Story makes that easy. MailChimp also has the ability to automatically send your
-new content to the list from an RSS feed, and guess what---Story helps you
-create an RSS feed customized just for that if you like, too.
+TOGETHER WE STAND
+
+Do you wish to be free?..... If desire for freedom from a tyrannical power structure exists while restoring peace, then Earth United is a light for our world to go. It doesn't matter who or what your background or beliefs are, these are FACTS that require action as this truth affects us all once known... and the time to correct and reclaim our FREEDOM , Sovereignty & power is now!
+
 <!--more-->
 
-First, MailChimp subscriber forms. If you want to add a subscription form at the
-bottom of each page, just add your MailChimp URL as a parameter in your
-configuration file. Here's a YAML example for `config.yaml`:
+All governments [which are JUST a service corporation] world wide by design commit massive theft and fraud against the people. How this fact is achieved occurs by a TRESPASS [unlawful conversion] against every man and woman moments after we are born. Our mother and father are not shown or told nor do the honorable doctors and nurses know filling out paper work what is occurring in that moment...and neither does a baby moments old laying in a crib. At this moment our identities are stolen to create a legal person [corporation in our names/ birth certificates] and this is where the world must go as this light is now finally being brought out and into the light for the world to see... this ONE truth hidden insures the people will no longer be ignorant or controlled as a slave... and given the power together to face head on the creators of this enslavement system once and for all so this evil never sees the light of day again. This ONE truth brought forth now...is our armor and spear and this evil WILL end!
 
-```yaml
-params:
-- mailchimp: "your URL here"
-```
+[Learn more about EARTH UNITED](https://www.earthunited.global/)
 
-And here's an example for `config.toml`:
-
-```toml
-[params]
-  mailchimp = "your URL here"
-```
-
-You can copy the URL from the address bar of your MailChimp subscriber form. It
-becomes the `action` of the form, which will appear at the bottom of each page
-near your author biography.
-
-Next, an RSS feed. Story has an RSS layout customized to create summaries of
-your content's title, description, featured image, and summary content. The
-summary content is either delimited explicitly by the `<!--more-->` comment in
-your Markdown source, or generated automatically by Hugo. (Read more
-[here](https://gohugo.io/content-management/summaries/).)
-
-The default content of the RSS feed entries is generated from the page's
-`description` front matter and `.Summary` content, but you can provide your own
-to override this.  Simply add an excerpt in the `tldr` front matter property.
-
-To enable the RSS feed, you need to create a special `.md` file that won't
-appear as regular content, but will render an extra RSS feed file. Its content
-is ignored, and only its front matter is important. For example, you could
-create it as `content/mailchimp/_index.md` with the following contents, using YAML
-front matter:
-
-```yaml
----
-layout: mailchimp
-outputs:
-- rss
----
-```
-
-Now Hugo will build an extra feed at
-[`/mailchimp/index.xml`](/mailchimp/index.xml), and you can use it to create
-[RSS campaigns in
-MailChimp](https://mailchimp.com/help/share-your-blog-posts-with-mailchimp/). Of
-course, you can also use your normal RSS feed, but Story's default is to put
-full content into that, so it might be more than you want.
-
-Read next: [Story's 'talks' feature for presentations](/talks/adirondack/).
+Read next: [PEOPLE Unleashed](/talks/adirondack/).

@@ -1,115 +1,48 @@
 ---
-title: Story's Typography
-date: "2018-08-19"
+title: Constitutional Sheriffs & Peace Officers Association
+date: "2021-04-11"
 url: "/typography"
 description: "Story uses gorgeous typefaces and is optimized for a pleasant reading experience on any device."
-credit: "https://unsplash.com/photos/h-M3O25tyvI"
-image: "img/unsplash-photos-h-M3O25tyvI.jpg"
-thumbnail: img/unsplash-photos-h-M3O25tyvI.tn-500x500.jpg
+credit: "https://SheriffMack.png"
+image: "img/SheriffMack.png"
+thumbnail: img/SheriffMack.png
 classes:
 - feature-hyphenate
 - feature-justify
 - feature-highlight
 - feature-tweetquote
 categories:
-- Demo
----
-This article is a demo of Story's beautiful typography.
 
-Story is designed to showcase long-form content such as essays and technical
-blog posts.  It is built for readability and grace in both screen and print
-media at all sizes.  
+---
+The CSPOA was started because of the huge need to remind sheriffs and peace officers about their oath of office.
+Throughout America, law enforcement agencies have a slogan that defines the primary function of the agency. The slogan, which has been used for decades, yet which has been removed from the door of many police agency patrol vehicles, is To Protect and Serve.
+
 <!--more-->
 
-Try opening your print dialog and saving this page as a
-PDF. Now try viewing this page on a cellphone.
+We need to take a long hard look at the meaning of this slogan, and make sure that our individual and collective philosophy as well as our individual attitude and behavior reflects this worthy objective.
+Peace officers have a tougher job today than 20 years ago.  
 
-Story supports text justification and hyphenation. Click here to toggle <a
-id="hyph">hyphenation</a> and <a id="just">justification</a>. These features can
-be enabled or disabled with the `feature-[no]hyphenate` and
-`feature-[no]justify` feature flags.
+Society seems to be polarized into two camps. One loves the police, and the other hates us. It may be partially due to the fact that some peace officers, and some training modules seem to foster the belief that we are somehow “better” than the people we serve. 
 
-### Moby-Dick; Or, The Whale: Heading Level 3
+This can lead to a “badge heavy” attitude, and sometimes to the excessive use of force. This must not continue.  We must eliminate any training or behavior that tarnishes the badge, including the “code of silence”.
+Making its way to America, the Sheriff held his office as the highest law enforcement officer within that county jurisdiction. 
 
-Story reserves H1 and H2 for its own use, and assumes you'll use H3 in your content.
-To hide subtitles, use the `feature-nosubtitle` feature.
+This is very important, considering that most peace officers are “sworn officers”, who take oaths to support the state and U.S. Constitutions. The same oath being sworn by the sheriff when constitutionally elected to office is significant in the fact that he or she is the first line of defense in preserving the Constitutional rights of a citizen.
 
-Floated images occasionally interfere with content, usually headings.
-Story provides [feature flags](/features) to add clears (left, right, and both) to `<h3>` elements.
+When we look at the Office of the Sheriff, combined with the historical powers held by that office, he stands as the upholder, defender, protector and servant to the liberties of the people within the county.
+In addition to upholding the law, the sheriff is also charged with upholding the supreme law, the Constitution. 
 
-Call me Ishmael. Some years ago---never mind how long precisely---having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off---then, I account it high time to get to sea as soon as I can.
+The law enforcement powers held by the sheriff supersede those of any agent, officer, elected official or employee from any level of government when in the jurisdiction of the county.  
 
-#### Fleuron and Dinkus: Heading Level 4
+The vertical separation of powers in the Constitution makes it clear that the power of the sheriff even supersedes the powers of the President.  
 
-An `<hr>` tag can be rendered as a fleuron, with the `feature-hrfleuron` flag. It
-can also be a dinkus if you like; use the `feature-hrdinkus` flag. Both are
-negatable and implemented in CSS. Here's a demo. You can toggle these features
-with <a id="fleuron">feature-hrfleuron</a> and <a id="dinkus">feature-hrdinkus</a>.
+Furthermore, it is this responsibility that grants a Sheriff the Constitutional authority to check and balance all levels of government within the jurisdiction of the County.
 
-----
+And other peace officers, including police officers and others with arrest powers, join with the Sheriff and deputies, as Constitutional Guards, with one and the same mission:  to protect life, liberty and property.
 
-Call me Ishmael. Some years ago---never mind how long precisely---having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation.
+The Constitutional Sheriffs and Peace Officers Association brings together We The People of the United States with peace officers and sheriffs, educating all in an effort to restore America peacefully for our posterity.
 
-Story has support for syntax highlighting inside of code blocks. It uses
-[highlight.js](https://highlightjs.org/) for this. This feature is controlled with the `feature-[no]highlight` flag.
+Now you can join our [CSPOA](https://cspoa.org//) Posse and learn how to help restore Liberty in your county. 
 
-```javascript
-function $initHighlight(block, cls) {
-  try {
-    if (cls.search(/\bno\-highlight\b/) != -1)
-      return process(block, true, 0x0F) +
-             ` class="${cls}"`;
-  } catch (e) {
-    /* handle exception */
-  }
-  for (var i = 0 / 2; i < classes.length; i++) {
-    if (checkCondition(classes[i]) === undefined)
-      console.log('undefined');
-  }
-}
 
-export  $initHighlight;
-```
-
-Here is text with _emphasis_ and **boldness**; ~~strikethrough~~.^[A footnote]
-
-> This is a blockquote. I thought I would sail about the unimaginative incomprehensibilities of the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. (This quote is a demo of justification and hyphenation.)
->
->> Blockquotes can nest.
-
-Here is an unordered list:
-
-- Item one
-- Item two
-- Item three is longer. I thought I would sail about a little and see the unimaginative incomprehensibilities of the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. (This is a justification and hyphenation demo.)
-
-And an ordered list:
-
-1. Item one
-1. Item two
-1. Item three is longer. I thought I would sail about a little and see the unimaginative incomprehensibilities of the watery part of the world. It is a way I have of driving off the spleen and regulating the circulation. (This is a justification and hyphenation demo.)
-
-### Quotes That Link To Tweets
-
-If you don't like embedding tweets, Story has a cleaner way to quote and link to a tweet. Just blockquote the content and begin it with a link containing the author's name and the tweet's permalink, and enable the `feature-tweetquote` flag. Story will transform the quote to resemble a simplistic tweet styling. If the flag isn't enabled, normal blockquote styling applies.
-
-> [Baron Sc​hwartz](https://twitter.com/xaprb/status/921004656402321408)
->
-> Monitoring tells you whether the system works. Observability lets you ask why it's not working.
-
-<script type="text/javascript">
-$( "#hyph" ).click(function() {
-   $("body").toggleClass("feature-hyphenate");
-});
-$( "#just" ).click(function() {
-   $("body").toggleClass("feature-justify");
-});
-$( "#fleuron" ).click(function() {
-   $("body").toggleClass("feature-hrfleuron");
-});
-$( "#dinkus" ).click(function() {
-   $("body").toggleClass("feature-hrdinkus");
-});
-</script>
-
-Read next: [Story's MailChimp subscribe forms and RSS feeds](/mailchimp-features).
+Read next: [Earth United](/mailchimp-features).

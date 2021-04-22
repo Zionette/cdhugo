@@ -2,8 +2,8 @@
 title: Zionette's Story
 date: "2021-04-11"
 url: "slides/adirondack/"
-image: "img/peopleLogo1.png"
-thumbnail: img/peopleLogo1.png
+image: "img/unsplash-photos-QRkew0KwXSM.jpg"
+thumbnail: img/unsplash-photos-QRkew0KwXSM.jpg
 description: "Morning arrives at 2:am with a breath of fresh air and a thankfulness of life as my feet touch the floor, how beautiful to be alive!  A fresh
 cup of coffee starts the day off topped with cream, and as I sit back in my chair before popping the laptop open, I say to the
 great one, Thank You for all that I have, Thank you. I smile and move on to my daily computer task ....
